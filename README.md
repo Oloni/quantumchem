@@ -12,9 +12,16 @@ Github issues used to manage the project.
 
 ## dictionaries
 We need dictionaries for key concepts/ terms. Suggest:
+### Overall method (DFT, Hartree Fock, Coupled Cluster etc.)
+### Multireference or single reference problem/method
 ### basis-sets
 ### functionals
-### software
+### software package
+### Property being calculated (energies, geometries, chemical shifts...)
+### Open Science practices (do they share xyz files, input files?)
+### Type of molecule or material (protein, transition metal complex etc.)
+### If multireference method: size of active space
+### Comparison to experimental data?
 
 ## corpora
 Initial corpus of 100 EPMC papers:
